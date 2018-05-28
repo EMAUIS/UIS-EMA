@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>uiCookies:Black &mdash; Free Bootstrap Theme, Free Responsive Bootstrap Website Template</title>
+    <meta name="description" content="Free Bootstrap Theme by uicookies.com">
+    <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles-merged.css">
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!--[if lt IE 9]>
+      <script src="js/vendor/html5shiv.min.js"></script>
+      <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+  <!-- START: header -->
+  
+  <div class="probootstrap-loader"></div>
+
+  <header role="banner" class="probootstrap-header">
+    <div class="container">
+        <a href="index.html" class="probootstrap-logo">Black<span>.</span></a>
+        
+        <a href="#" class="probootstrap-burger-menu visible-xs" ><i>Menu</i></a>
+        <div class="mobile-menu-overlay"></div>
+
+        <nav role="navigation" class="probootstrap-nav hidden-xs">
+          <ul class="probootstrap-main-nav">
+            <li><a href="index.html"><B>INICIO</B></a></li>
+            <li><a href="services.html"><B>VARIABLES</B></a></li>
+            <li><a href="projects.html"><B>INFORMACIÓN</B></a></li>
+          </ul> 
+          <ul class="probootstrap-right-nav hidden-xs">
+            <li><a href="#"><i class="icon-twitter"></i></a></li>
+            <li><a href="#"><i class="icon-facebook2"></i></a></li>
+            <li><a href="#"><i class="icon-instagram2"></i></a></li>
+          </ul>
+          <div class="extra-text visible-xs"> 
+            <a href="#" class="probootstrap-burger-menu"><i>Menu</i></a>
+            <h5>Address</h5>
+            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+            <h5>Connect</h5>
+            <ul class="social-buttons">
+              <li><a href="#"><i class="icon-twitter"></i></a></li>
+              <li><a href="#"><i class="icon-facebook2"></i></a></li>
+              <li><a href="#"><i class="icon-instagram2"></i></a></li>
+            </ul>
+          </div>
+        </nav>
+    </div>
+  </header>
+  <section class="page-title">
+    <div class="container">
+      <!-- <div class="row">
+        <div class="col-md-12 section-heading"> -->
+          <h1>This is a single page here</h1>
+        <!-- </div>
+      </div> -->
+    </div>
+  </section>
+
+  <section class="probootstrap-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <p><img src="img/sensor1.jpg" width="600" height="600" alt="Free HTML5 Bootstrap Template by uicookies.com" class="img-responsive img-border"></p>
+   
+        </div>
+        <div class="col-md-3">
+          
+
+
+          <div class="panel-group probootstrap-panel" id="accordion" role="tablist" aria-multiselectable="true">
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingOne">
+                <h4 class="panel-title">
+                  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      Sensor de lluvia.
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                  <p align="justify">Sensor E7-08F es usado en board arduino,
+                      kits de robots, sensado de lluvia y es usado
+                      para todo tipo de monitoreo del clima, las
+                      se~nales capturadas o monitoreadas pueden ser
+                      traducidas a través de la terminal AO o DO del
+                      sensor. Este dispositivo cuenta con tecnología
+                      TTL, lo que significa que proporciona una
+                      se~nal digital entre 0 y 1 por el pin DO. A trav´es
+                      de la terminal AO del sensor, la cual es una
+                      salida analógica, se puede hacer la recepci´on
+                      de señales que irán directo al microcontrolador,
+                      para así detectar la cantidad de precipitaciones
+                      que hay.</p>
+
+                  
+                </div
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingTwo">
+                <h4 class="panel-title">
+                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Características
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                <div class="panel-body">
+                  <p>
+                    <li>Voltaje de operación: 3.3V 5V.</li>
+                    <li>Corriente de operación: 15mA.</li>
+                    <li>Salida anal´ogica AO.</li>
+                    <li>Salida digital DO.</li>
+                  </p>
+                  
+                </div>
+              </div>
+            </div>
+            
+          </div>
+          <!-- END panel-group -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- END section cta -->
+
+  <section class="probootstrap-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 section-heading probootstrap-animate">
+          <h2>The Projects</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 probootstrap-animate">
+          <div class="probootstrap-card">
+            <div class="probootstrap-card-media">
+              <a href="#"><img src="img/sensor2.jpg" class="img-responsive img-border" alt="Free HTML5 Template by uicookies.com"></a>
+            </div>
+            <div class="probootstrap-card-text">
+              <h2 class="probootstrap-card-heading mb0">BME-280</h2>
+              <p class="category">Sensor de Temperatura,Humedad y Presión</p>
+              <p align="justify">Sensor E7-08F es usado en board arduino,
+                  kits de robots, sensado de lluvia y es usado
+                  para todo tipo de monitoreo del clima, las
+                  señaales capturadas o monitoreadas pueden ser
+                  traducidas a través de la terminal AO o DO del
+                  sensor</p>
+              <p><a href="#">Ver Detalles</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 probootstrap-animate">
+          <div class="probootstrap-card">
+            <div class="probootstrap-card-media">
+              <a href="#"><img src="img/sensor3.jpg" class="img-responsive img-border" width="400" height="500" alt="Free HTML5 Template by uicookies.com"></a>
+            </div>
+            <div class="probootstrap-card-text">
+              <h2 class="probootstrap-card-heading mb0">Sensor de Voltaje</h2>
+              <p class="category">Sensor de Voltaje</p>
+              <p align="justify">Este módulo sensor de tensión puede detectar
+                  voltaje de 5V. Utiliza tecnologíaa AVR de
+                  microchip de 10 Bits AD, Este módulo es
+                  compatible con la board Arduino, por lo que
+                  la tensión se puede detectar fácilmente y se
+                  puede supervisar la cantidad eléctrica a través
+                  de sistemas de comunicación interactiva como
+                  la batería</p>
+              <p><a href="#">Ver detalles</a></p>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  <!-- END section -->
+  
+  
+  <!-- END section -->
+
+  <footer class="probootstrap-footer probootstrap-bg">
+    
+  </footer>
+
+  <div class="gototop js-top">
+    <a href="#" class="js-gotop"><i class="icon-chevron-thin-up"></i></a>
+  </div>
+  <script src="js/scripts.min.js"></script>
+  <script src="js/main.min.js"></script>
+  <script src="js/custom.js"></script>
+
+  </body>
+</html>
